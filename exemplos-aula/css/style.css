@@ -1,0 +1,47 @@
+header {
+  background-color: yellow;
+}
+header .menu nav ul {
+  list-style: none;
+}
+header .menu nav ul li a {
+  color: green;
+  text-decoration: none;
+}
+
+.card {
+  display: flex;
+}
+.card-img {
+  width: 100%;
+}
+.card-descricao {
+  font-size: 20px;
+}
+
+.button {
+  padding: 20px;
+  background: orange;
+  color: #000;
+}
+.button:hover {
+  background-color: #ff7b00;
+}
+
+.button-gray {
+  padding: 20px;
+  background: #8a8a8a;
+  color: #000;
+}
+.button-gray:hover {
+  background-color: #474747;
+}
+
+section {
+  padding: 10px 20px 10px 20px;
+}
+
+footer {
+  background-color: #93daf0;
+  color: red;
+}/*# sourceMappingURL=style.css.map */
